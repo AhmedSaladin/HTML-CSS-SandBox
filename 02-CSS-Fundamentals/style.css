@@ -39,3 +39,7 @@ article header p {
 footer p {
   font-size: 16px;
 }
+
+.related-posts {
+  list-style: none;
+}
