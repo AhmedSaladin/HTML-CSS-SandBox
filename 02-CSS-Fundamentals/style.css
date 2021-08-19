@@ -58,3 +58,10 @@ li {
 .main-header {
   background-color: #f7f7f7;
 }
+
+aside {
+  background-color: #f7f7f7;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #1098ad;
+}
