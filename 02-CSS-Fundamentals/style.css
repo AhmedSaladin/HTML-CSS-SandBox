@@ -54,3 +54,7 @@ li {
 .related-posts {
   list-style: none;
 }
+
+.main-header {
+  background-color: #f7f7f7;
+}
