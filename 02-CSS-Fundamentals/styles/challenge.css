@@ -31,3 +31,16 @@ a:hover {
 ul {
   list-style: square;
 }
+
+.cart {
+  color: white;
+  background-color: black;
+  font-size: 18px;
+  border: none;
+  text-transform: uppercase;
+}
+
+.cart:hover {
+  color: black;
+  background-color: white;
+}
