@@ -8,3 +8,9 @@ body {
   background-color: whitesmoke;
   text-align: center;
 }
+
+.shipping{
+  text-transform: uppercase;
+  color: #444;
+  font-size: 12px;
+}
