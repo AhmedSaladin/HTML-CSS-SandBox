@@ -62,6 +62,10 @@ li:last-child {
   font-size: 16px;
 }
 
+.related-posts-header {
+  text-align: center;
+}
+
 .related-posts {
   list-style: none;
 }
@@ -76,6 +80,7 @@ aside {
   border-width: 5px;
   border-style: solid;
   border-color: #1098ad;
+  padding: 50px 10px;
 }
 
 li:first-child {
