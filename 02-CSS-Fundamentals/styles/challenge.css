@@ -9,8 +9,16 @@ body {
   text-align: center;
 }
 
-.shipping{
+.shipping {
   text-transform: uppercase;
   color: #444;
   font-size: 12px;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
 }
