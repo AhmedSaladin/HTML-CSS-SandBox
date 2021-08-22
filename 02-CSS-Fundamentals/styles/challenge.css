@@ -9,7 +9,7 @@ body {
 }
 
 .product {
-  border: 5px solid black;
+  border: 4px solid black;
   width: 825px;
   margin: 50px auto;
 }
@@ -60,17 +60,19 @@ margin-bottom: 5px;
   border: none;
   text-transform: uppercase;
   text-align: center;
-  width: 825px;
-  height: 50px;
+  width: 100%;
+  padding: 15px;
+  cursor: pointer;
+  border-left: 0;
+  border-right: 0;
+  border-bottom:0;
+  border-top: 4px;
+  border-style: solid; 
 }
 
 .cart:hover {
   color: black;
   background-color: white;
-  border: solid;
-  border-left: 0;
-  border-right: 0;
-  border-bottom: 0;
 }
 
 .description{
