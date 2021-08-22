@@ -1,7 +1,13 @@
 * {
+  margin: 0;
+  padding: 0;
+}
+
+body {
   font-family: sans-serif;
   color: #444;
 }
+
 h1,
 h2,
 h3 {
