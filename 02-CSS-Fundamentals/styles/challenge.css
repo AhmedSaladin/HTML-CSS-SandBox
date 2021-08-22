@@ -22,3 +22,8 @@ a:link {
 a:hover {
   text-decoration: none;
 }
+
+.product {
+  text-transform: uppercase;
+  font-weight: bold;
+}
