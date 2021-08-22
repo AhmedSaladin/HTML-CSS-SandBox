@@ -23,6 +23,7 @@ h1 {
 h2 {
   font-size: 40px;
   text-transform: capitalize;
+  margin-bottom:10px ;
 }
 
 h3 {
@@ -100,4 +101,8 @@ a:link {
 
 a:visited {
   color: #1098ad;
+}
+
+.post-header{
+  margin-bottom: 40px;
 }
