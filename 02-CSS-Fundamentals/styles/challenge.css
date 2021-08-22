@@ -24,6 +24,7 @@ body {
   text-transform: uppercase;
   color: #444;
   font-size: 12px;
+  margin-bottom: 10px;
 }
 
 a:link {
@@ -37,10 +38,18 @@ a:hover {
 .product-info {
   text-transform: uppercase;
   font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 30px;
 }
 
 ul {
   list-style: square;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+li{
+margin-bottom: 5px;
 }
 
 .cart {
@@ -49,9 +58,20 @@ ul {
   font-size: 18px;
   border: none;
   text-transform: uppercase;
+  text-align: center;
+  width: 825px;
+  height: 50px;
 }
 
 .cart:hover {
   color: black;
   background-color: white;
+  border: solid;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.description{
+  margin-bottom: 10px;
 }
