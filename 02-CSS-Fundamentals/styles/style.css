@@ -29,6 +29,7 @@ h2 {
 h3 {
   font-size: 30px;
   text-transform: capitalize;
+  margin-bottom: 20px;
 }
 
 h4 {
@@ -111,4 +112,8 @@ a:visited {
 
 .post-header{
   margin-bottom: 40px;
+}
+
+article{
+margin-bottom: 60px;
 }
