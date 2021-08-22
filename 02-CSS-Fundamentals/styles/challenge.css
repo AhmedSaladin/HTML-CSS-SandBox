@@ -1,6 +1,10 @@
 body {
-  border: 5px solid black;
   font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.product {
+  border: 5px solid black;
 }
 
 .header {
@@ -23,7 +27,7 @@ a:hover {
   text-decoration: none;
 }
 
-.product {
+.product-info {
   text-transform: uppercase;
   font-weight: bold;
 }
