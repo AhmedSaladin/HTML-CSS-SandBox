@@ -76,4 +76,5 @@ li:last-child {
 
 a:link {
   color: #1098ad;
+  text-decoration: none;
 }
