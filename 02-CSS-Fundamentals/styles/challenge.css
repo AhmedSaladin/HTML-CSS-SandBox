@@ -12,6 +12,18 @@ body {
   border: 4px solid black;
   width: 825px;
   margin: 50px auto;
+  position: relative;
+}
+
+.product::after {
+  content: "SALE";
+  color: white;
+  background-color: red;
+  padding: 3px 10px;
+  letter-spacing: 2px;
+  position: absolute;
+  top: -15px;
+  left: -35px;
 }
 
 .header {
@@ -49,8 +61,8 @@ ul {
   margin-bottom: 10px;
 }
 
-li{
-margin-bottom: 5px;
+li {
+  margin-bottom: 5px;
 }
 
 .cart {
@@ -65,9 +77,9 @@ margin-bottom: 5px;
   cursor: pointer;
   border-left: 0;
   border-right: 0;
-  border-bottom:0;
+  border-bottom: 0;
   border-top: 4px;
-  border-style: solid; 
+  border-style: solid;
 }
 
 .cart:hover {
@@ -75,6 +87,6 @@ margin-bottom: 5px;
   background-color: white;
 }
 
-.description{
+.description {
   margin-bottom: 10px;
 }
