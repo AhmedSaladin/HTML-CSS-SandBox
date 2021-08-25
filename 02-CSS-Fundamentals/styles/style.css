@@ -124,3 +124,9 @@ article {
   width: 800px;
   margin: 0 auto;
 }
+
+nav a:link {
+  margin: 20px;
+  padding: 10px;
+  display: inline-block;
+}
