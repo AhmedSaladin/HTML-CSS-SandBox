@@ -79,6 +79,10 @@ p {
   margin-bottom: 15px;
 }
 
+p::first-line{
+  color:#2DD383;
+}
+
 ul,
 ol {
   margin-left: 50px;
