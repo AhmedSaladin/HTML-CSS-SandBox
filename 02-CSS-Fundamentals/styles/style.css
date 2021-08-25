@@ -79,8 +79,8 @@ p {
   margin-bottom: 15px;
 }
 
-p::first-line{
-  color:#2DD383;
+h3 + p::first-line {
+  color: #2dd383;
 }
 
 ul,
