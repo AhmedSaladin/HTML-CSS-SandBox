@@ -90,3 +90,39 @@ li {
 .description {
   margin-bottom: 10px;
 }
+
+.product-colors span {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+  margin-top: 20px;
+}
+
+.product-colors:last-child {
+  margin-right: 0;
+}
+
+.product-black {
+  background-color: black;
+}
+
+.product-blue {
+  background-color: blue;
+}
+
+.product-red {
+  background-color: red;
+}
+
+.product-yellow {
+  background-color: yellow;
+}
+
+.product-green {
+  background-color: green;
+}
+
+.product-brown {
+  background-color: brown;
+}
