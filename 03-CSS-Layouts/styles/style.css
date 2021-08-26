@@ -312,3 +312,8 @@ footer{
   font-weight: normal;
   font-style: italic;
 }
+
+.main-screen{
+  display: flex;
+  gap: 75px;
+}
