@@ -255,11 +255,14 @@ nav {
 
 article {
   float: left;
+  width: 900px;
 }
 
 aside {
   float: right;
+  width: 300px;
 }
 
-footer {
+footer{
+  clear: both;
 }
