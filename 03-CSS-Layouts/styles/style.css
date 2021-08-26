@@ -274,29 +274,37 @@ footer{
 */
 
 /* Flex */
-.main-header{
+.main-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.author-section{
+.author-section {
   display: flex;
   align-items: center;
   margin-bottom: 15px;
 }
 
-.author{
+.author {
   margin-bottom: 0;
   margin-left: 15px;
 }
 
-.related-post{
+.related-post {
   display: flex;
   align-items: center;
 }
 
-.related-author{
+.related-link:link {
+  display: block;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  margin-bottom: 3px;
+}
+
+.related-author {
   margin-bottom: 0;
   font-size: 15px;
   font-weight: normal;
