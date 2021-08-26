@@ -187,7 +187,6 @@ nav a:link {
   display: block; */
 
   margin-right: 30px;
-  margin-top: 10px;
   display: inline-block;
 }
 
@@ -230,7 +229,10 @@ h2::before {
   right: -25px;
 }
 
-/* .author-img {
+/*
+ Float layout
+
+.author-img {
   float: left;
   margin-bottom: 20px;
 }
@@ -267,4 +269,11 @@ aside {
 
 footer{
   clear: both;
-} */
+} 
+
+*/
+
+/* Flex */
+.main-header{
+  display: flex;
+}
