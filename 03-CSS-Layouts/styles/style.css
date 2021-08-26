@@ -295,3 +295,10 @@ footer{
   display: flex;
   align-items: center;
 }
+
+.related-author{
+  margin-bottom: 0;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+}
