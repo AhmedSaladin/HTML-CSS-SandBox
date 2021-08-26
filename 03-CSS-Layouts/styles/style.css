@@ -279,3 +279,13 @@ footer{
   align-items: center;
   justify-content: space-between;
 }
+
+.author-section{
+  display: flex;
+  align-items: center;
+}
+
+.author{
+  margin-bottom: 0;
+  margin-left: 15px;
+}
